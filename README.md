@@ -54,8 +54,10 @@ const order = {
   shippingType: "standard",
   deliveryLocation: "national"
 };
-
-**## Sample Output**
+```
+---
+## Sample Output
+```js
 Order processed. Estimated delivery in 5 days.
 
 
